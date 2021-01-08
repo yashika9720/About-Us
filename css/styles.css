@@ -1,0 +1,86 @@
+body {
+    font-family: 'Montserrat-light';
+    background-color: #f5f4f4;
+}
+
+.margin-set {
+    margin: auto 10%;
+}
+
+
+/* navigation bar */
+
+.navbar {
+    padding: 0 0 2.5rem;
+}
+
+.navbar-brand {
+    color: white;
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 38px;
+}
+
+.nav-link {
+    font-size: 20px;
+    font-family: 'Montserrat-light';
+}
+
+#navbarTogglerDemo01 {
+    text-align: center;
+}
+
+.top-img {
+    height: 100%;
+    width: 100%;
+}
+
+
+/* horizontal bar */
+
+hr {
+    border-color: black;
+}
+
+.top-text {
+    font-family: 'Montserrat-light';
+    margin: 20px auto;
+    font-size: large;
+}
+
+.middle-text {
+    font-size: 1.5rem;
+}
+
+.bottom-text {
+    font-size: 1.5rem;
+}
+
+.office-img {
+    height: 100%;
+    width: 100%;
+}
+
+.middle-container {
+    margin: 10% auto;
+}
+
+.bottom-container {
+    padding: 50px 0px 20px 0px;
+    background-color: #66BFBF;
+    text-align: center;
+}
+
+.footer-link {
+    margin: 0px 10px;
+    font-size: 2rem;
+}
+
+.last-para {
+    margin-top: 10px;
+    color: white;
+}
